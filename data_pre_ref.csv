@@ -1,0 +1,244 @@
+College,Degree,Hours_Required,Categories,Delivery,Delivery_Method_1,Delivery_Method_2,Delivery_Method_3,Category_1,Category_2,Category_3,On-Campus,Online,Hybrid,Minor,Major,Undergraduate,Certificate_Endorsement,Associate,Graduate
+Rankin College of Buisiness,Accounting,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,BBA/MBA (4+1 program),150,"Graduate, Undergraduate","On-Campus, Online",On-Campus,Online,,Graduate,Undergraduate,,Yes,Yes,No,No,No,Yes,No,No,Yes
+Rankin College of Buisiness,Business Administration (Associates),61,"Associate, Undergraduate",On-Campus,On-Campus,,,Associate,Undergraduate,,Yes,No,No,No,No,Yes,No,Yes,No
+Rankin College of Buisiness,Business Leadership Graduate Certificate,12,"Certificate / Endorsement, Graduate","On-Campus, Online",On-Campus,Online,,Certificate / Endorsement,Graduate,,Yes,Yes,No,No,No,No,Yes,No,Yes
+Rankin College of Buisiness,Data Analytics Graduate Certificate,12,"Certificate / Endorsement, Graduate","On-Campus, Online",On-Campus,Online,,Certificate / Endorsement,Graduate,,Yes,Yes,No,No,No,No,Yes,No,Yes
+Rankin College of Buisiness,Entrepreneurship,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Financial Analysis,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,General Business,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,General Business with Minor in Agricultural Industries,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Healthcare Administration,120,"Major, Undergraduate","On-Campus, Online",On-Campus,Online,,Major,Undergraduate,,Yes,Yes,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Information Systems Analytics,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,International Business,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Management,120,"Major, Minor, Undergraduate","On-Campus, Online",On-Campus,Online,,Major,Minor,Undergraduate,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Management (2 + 2),57 or more,"Major, Undergraduate","Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Major,Undergraduate,,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Marketing (Media Option),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Marketing (Retailing Option),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Marketing (Sales Option),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Master of Business Administration,30,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Agri-Business Emphasis,33,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Business Leadership Emphasis,33,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Data Analytics Emphasis,33,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Social Entrepreneurship Emphasis,36,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Supply Chain Management Emphasis,33,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Minor in Economics,15,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Rankin College of Buisiness,Minor in Economics,15,"Minor, Undergraduate","On-Campus, Online",On-Campus,Online,,Minor,Undergraduate,,Yes,Yes,No,Yes,No,Yes,No,No,No
+Rankin College of Buisiness,Supply Chain Management,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Supply Chain Management Graduate Certificate,12,"Certificate / Endorsement, Graduate","On-Campus, Online",On-Campus,Online,,Certificate / Endorsement,Graduate,,Yes,Yes,No,No,No,No,Yes,No,Yes
+Rankin College of Buisiness,Wealth Management,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Agricultural Education,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Certificate of Proficiency in Teaching,9,"Certificate / Endorsement, Undergraduate",On-Campus,On-Campus,,,Certificate / Endorsement,Undergraduate,,Yes,No,No,No,No,Yes,Yes,No,No
+College of Education,Doctor of Education in Rural and Diverse Educational Leadership,60,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,EDAS: Building Level Leadership Graduate Certificate,18,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,EDAS: District Level Leadership Graduate Certificate,18,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,EDAS: Program Administrator Graduate Certificate,18,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Education Graduate Certificate,12,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Elementary Education (Associates),61,"Associate, Undergraduate",On-Campus,On-Campus,,,Associate,Undergraduate,,Yes,No,No,No,No,Yes,No,Yes,No
+College of Education,Elementary Education (K-6 STEM),120,"Major, Undergraduate","Hybrid, On-Campus",Hybrid,On-Campus,,Major,Undergraduate,,Yes,No,Yes,No,Yes,Yes,No,No,No
+College of Education,English (Education),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Exercise Science (Pre-Professional),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Exercise Science (Strength & Conditioning),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Foreign Language (Spanish Education),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Instructional Design Graduate Certificate,21,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Instructional Facilitator / LEAD Teacher Graduate Certificate,15,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,"Instructional Facilitator / LEAD Teacher, M.Ed.",30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,K-12 Physical Education and Health,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Library Media & Information Specialist Graduate Certificate,24,"Certificate / Endorsement, Graduate",Hybrid,Hybrid,,,Certificate / Endorsement,Graduate,,No,No,Yes,No,No,No,Yes,No,Yes
+College of Education,"M.Ed., Higher, Adult, and Lifelong Education (HALE)",30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Master of Arts in Teaching,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Master of Education (Library Media and Information Specialist),30,Graduate,Hybrid,Hybrid,,,Graduate,,,No,No,Yes,No,No,No,No,No,Yes
+College of Education,Master of Education (School Counseling),48,Graduate,Hybrid,Hybrid,,,Graduate,,,No,No,Yes,No,No,No,No,No,Yes
+College of Education,Master of Education in College Counseling and Student Affairs,51,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Master of Education in Educational Leadership in Administration and Supervision,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Master of Education in Special Education,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Master of Science in Clinical and Mental Health Counseling,60,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Master of Science in Kinesiology – Coaching,33,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Mathematics with Education Minor,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Middle School Education,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Middle School Education (Associates),61,"Associate, Undergraduate",On-Campus,On-Campus,,,Associate,Undergraduate,,Yes,No,No,No,No,Yes,No,Yes,No
+College of Education,Middle School Education (STEM),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Music Education (Instrumental) BFA,125,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Music Education (Vocal) BFA,124-125,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,School Counseling Graduate Certificate,12,"Certificate / Endorsement, Graduate","Hybrid, Online",Hybrid,Online,,Certificate / Endorsement,Graduate,,No,Yes,Yes,No,No,No,Yes,No,Yes
+College of Education,Special Education K-12 Graduate Certificate,24,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Sport Management,120,"Major, Minor, Undergraduate",Online,Online,,,Major,Minor,Undergraduate,No,Yes,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Comparative Literature,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Criminal Justice,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Cyber Criminology,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,English,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,English (Education),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,English (Writing),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Foreign Language,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Foreign Language (Spanish Education),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Foreign Language (Spanish),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,"Game, Animation, and Simulation BFA",121,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Graphic Design BFA,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,History,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,History (Social Studies Education),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Interactive Media,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Mass Communication (Mass Media),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Master of Public Administration,36,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+Dempsey College of L&PA,Master of Public Administration (4 + 1 program),120 + 36,"Graduate, Undergraduate",Hybrid,Hybrid,,,Graduate,Undergraduate,,No,No,Yes,No,No,Yes,No,No,Yes
+Dempsey College of L&PA,Master of Public Administration with Social Entrepreneurship Emphasis,36,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+Dempsey College of L&PA,Minor in Africana Studies,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Art History,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Asian Studies,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Digital Photography and Film,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in French,12-24,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Geography,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Juvenile Justice,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Philosophy and Religious Studies,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Teaching English as a Second Language,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+College of Education,Music Education (Instrumental) BFA,125,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Music Education (Vocal) BFA,124-125,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Music Performance (Instrumental) BFA,120-122,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Music Performance (Vocal) BFA,120-122,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Music with Studies in Business BFA,126-129,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Musical Theatre BFA,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Political Science,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Pre-Art Therapy BFA,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Psychology,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Social Work,120,"Major, Minor, Undergraduate","Hybrid, On-Campus",Hybrid,On-Campus,,Major,Minor,Undergraduate,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Studio Art BFA,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Theatre BFA,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,University Studies,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,University Studies (Associates),60,Associate,On-Campus,On-Campus,,,Associate,,,Yes,No,No,No,No,No,No,Yes,No
+Rankin College of Buisiness,Accounting,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Science and Engineering,Agricultural Business,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Agricultural Education,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Agriculture (Associates),62,Associate,On-Campus,On-Campus,,,Associate,,,Yes,No,No,No,No,No,No,Yes,No
+College of Science and Engineering,Agriculture: Animal Science,121,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Science and Engineering,Agriculture: Plant Science,122,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Agriculture: Poultry Science,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Agriculture: Pre-Veterinary,127,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,BBA/MBA (4+1 program),150,"Graduate, Undergraduate","On-Campus, Online",On-Campus,Online,,Graduate,Undergraduate,,Yes,Yes,No,No,No,Yes,No,No,Yes
+College of Science and Engineering,Biological Sciences (3+2 Program),121,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Biological Sciences (Pre-Health),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Biological Sciences (Wildlife and Conservation Biology),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Biology,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Science and Engineering,Biology (Marine Biology),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Business Administration (Associates),61,"Associate, Undergraduate",On-Campus,On-Campus,,,Associate,Undergraduate,,Yes,No,No,No,No,Yes,No,Yes,No
+Rankin College of Buisiness,Business Leadership Graduate Certificate,12,"Certificate / Endorsement, Graduate","On-Campus, Online",On-Campus,Online,,Certificate / Endorsement,Graduate,,Yes,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Certificate of Proficiency in Teaching,9,"Certificate / Endorsement, Undergraduate",On-Campus,On-Campus,,,Certificate / Endorsement,Undergraduate,,Yes,No,No,No,No,Yes,Yes,No,No
+College of Science and Engineering,Chemistry (3+2 Professional Program),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Chemistry (Associates),60,"Associate, Undergraduate",On-Campus,On-Campus,,,Associate,Undergraduate,,Yes,No,No,No,No,Yes,No,Yes,No
+College of Science and Engineering,Chemistry (Forensic Science),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Chemistry (Medical Laboratory Science),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Chemistry (Pre-Health Professional Biochemistry),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Chemistry (Science Option),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Comparative Literature,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Computer Science,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Science and Engineering,Computer Science (Computer Game & Animation Design),123,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Computer Science (Privacy and Cyber Security Option),120,"Major, Undergraduate","Hybrid, On-Campus",Hybrid,On-Campus,,Major,Undergraduate,,Yes,No,Yes,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Criminal Justice,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Cyber Criminology,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Cyber Security and Privacy Graduate Certificate,12,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+Rankin College of Buisiness,Data Analytics Graduate Certificate,12,"Certificate / Endorsement, Graduate","On-Campus, Online",On-Campus,Online,,Certificate / Endorsement,Graduate,,Yes,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Doctor of Education in Rural and Diverse Educational Leadership,60,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,EDAS: Building Level Leadership Graduate Certificate,18,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,EDAS: District Level Leadership Graduate Certificate,18,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,EDAS: Program Administrator Graduate Certificate,18,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Education Graduate Certificate,12,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Elementary Education (Associates),61,"Associate, Undergraduate",On-Campus,On-Campus,,,Associate,Undergraduate,,Yes,No,No,No,No,Yes,No,Yes,No
+College of Education,Elementary Education (K-6 STEM),120,"Major, Undergraduate","Hybrid, On-Campus",Hybrid,On-Campus,,Major,Undergraduate,,Yes,No,Yes,No,Yes,Yes,No,No,No
+College of Science and Engineering,Engineering,124,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Engineering-Physics (Chemical Engineering),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Engineering-Physics (Engineering Technology),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Engineering-Physics (Industrial Technology),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Engineering-Physics (Science Option),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,English,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,English (Education),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,English (Writing),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Entrepreneurship,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Exercise Science (Pre-Professional),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Exercise Science (Strength & Conditioning),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Financial Analysis,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Foreign Language,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Foreign Language (Spanish Education),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Foreign Language (Spanish),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,"Game, Animation, and Simulation BFA",121,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,General Business,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,General Business with Minor in Agricultural Industries,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Graphic Design BFA,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Healthcare Administration,120,"Major, Undergraduate","On-Campus, Online",On-Campus,Online,,Major,Undergraduate,,Yes,Yes,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,History,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,History (Social Studies Education),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Information Systems Analytics,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Instructional Design Graduate Certificate,21,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Instructional Facilitator / LEAD Teacher Graduate Certificate,15,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,"Instructional Facilitator / LEAD Teacher, M.Ed.",30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+Dempsey College of L&PA,Interactive Media,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,International Business,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,K-12 Physical Education and Health,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Library Media & Information Specialist Graduate Certificate,24,"Certificate / Endorsement, Graduate",Hybrid,Hybrid,,,Certificate / Endorsement,Graduate,,No,No,Yes,No,No,No,Yes,No,Yes
+College of Education,"M.Ed., Higher, Adult, and Lifelong Education (HALE)",30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+Rankin College of Buisiness,Management,120,"Major, Minor, Undergraduate","On-Campus, Online",On-Campus,Online,,Major,Minor,Undergraduate,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Management (2 + 2),57 or more,"Major, Undergraduate","Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Major,Undergraduate,,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Marketing (Media Option),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Marketing (Retailing Option),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Marketing (Sales Option),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Mass Communication (Mass Media),120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Master of Arts in Teaching,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration,30,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Agri-Business Emphasis,33,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Business Leadership Emphasis,33,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Data Analytics Emphasis,33,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Social Entrepreneurship Emphasis,36,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+Rankin College of Buisiness,Master of Business Administration with Supply Chain Management Emphasis,33,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+College of Science and Engineering,Master of Computer and Information Science,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Master of Education (Library Media and Information Specialist),30,Graduate,Hybrid,Hybrid,,,Graduate,,,No,No,Yes,No,No,No,No,No,Yes
+College of Education,Master of Education (School Counseling),48,Graduate,Hybrid,Hybrid,,,Graduate,,,No,No,Yes,No,No,No,No,No,Yes
+College of Education,Master of Education in College Counseling and Student Affairs,51,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Master of Education in Educational Leadership in Administration and Supervision,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Master of Education in Special Education,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+Dempsey College of L&PA,Master of Public Administration,36,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+Dempsey College of L&PA,Master of Public Administration (4 + 1 program),120 + 36,"Graduate, Undergraduate",Hybrid,Hybrid,,,Graduate,Undergraduate,,No,No,Yes,No,No,Yes,No,No,Yes
+Dempsey College of L&PA,Master of Public Administration with Social Entrepreneurship Emphasis,36,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Science and Engineering,Master of Science in Agriculture,33,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Education,Master of Science in Clinical and Mental Health Counseling,60,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Science and Engineering,Master of Science in Computer and Information Science – Cyber Security and Privacy Option,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Science and Engineering,Master of Science in Computer and Information Science – Data Science Option,30,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Science and Engineering,Master of Science in Computer and Information Science – Information Technology Option,30,Graduate,"Hybrid, On-Campus, Online",Hybrid,On-Campus,Online,Graduate,,,Yes,Yes,Yes,No,No,No,No,No,Yes
+College of Education,Master of Science in Kinesiology – Coaching,33,Graduate,Online,Online,,,Graduate,,,No,Yes,No,No,No,No,No,No,Yes
+College of Science and Engineering,Mathematics,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Education,Mathematics with Education Minor,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Middle School Education,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Middle School Education (Associates),61,"Associate, Undergraduate",On-Campus,On-Campus,,,Associate,Undergraduate,,Yes,No,No,No,No,Yes,No,Yes,No
+College of Education,Middle School Education (STEM),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Minor in Africana Studies,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Art History,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Asian Studies,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Digital Photography and Film,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Rankin College of Buisiness,Minor in Economics,15,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Rankin College of Buisiness,Minor in Economics,15,"Minor, Undergraduate","On-Campus, Online",On-Campus,Online,,Minor,Undergraduate,,Yes,Yes,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in French,12-24,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Geography,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+College of Science and Engineering,Minor in Geology,24,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+College of Science and Engineering,Minor in Horticulture,21,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Juvenile Justice,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Philosophy and Religious Studies,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+College of Science and Engineering,Minor in Physics,20,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+Dempsey College of L&PA,Minor in Teaching English as a Second Language,18,"Minor, Undergraduate",On-Campus,On-Campus,,,Minor,Undergraduate,,Yes,No,No,Yes,No,Yes,No,No,No
+College of Education,Music Education (Instrumental) BFA,125,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,Music Education (Vocal) BFA,124-125,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Music Performance (Instrumental) BFA,120-122,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Music Performance (Vocal) BFA,120-122,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Music with Studies in Business BFA,126-129,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Musical Theatre BFA,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Science and Engineering,Nursing (BSN),120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Political Science,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Pre-Art Therapy BFA,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,Psychology,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+College of Science and Engineering,Public Health,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+College of Education,School Counseling Graduate Certificate,12,"Certificate / Endorsement, Graduate","Hybrid, Online",Hybrid,Online,,Certificate / Endorsement,Graduate,,No,Yes,Yes,No,No,No,Yes,No,Yes
+Dempsey College of L&PA,Social Work,120,"Major, Minor, Undergraduate","Hybrid, On-Campus",Hybrid,On-Campus,,Major,Minor,Undergraduate,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+College of Education,Special Education K-12 Graduate Certificate,24,"Certificate / Endorsement, Graduate",Online,Online,,,Certificate / Endorsement,Graduate,,No,Yes,No,No,No,No,Yes,No,Yes
+College of Education,Sport Management,120,"Major, Minor, Undergraduate",Online,Online,,,Major,Minor,Undergraduate,No,Yes,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,Studio Art BFA,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Rankin College of Buisiness,Supply Chain Management,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Rankin College of Buisiness,Supply Chain Management Graduate Certificate,12,"Certificate / Endorsement, Graduate","On-Campus, Online",On-Campus,Online,,Certificate / Endorsement,Graduate,,Yes,Yes,No,No,No,No,Yes,No,Yes
+Dempsey College of L&PA,Theatre BFA,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
+Dempsey College of L&PA,University Studies,120,"Major, Undergraduate",On-Campus,On-Campus,,,Major,Undergraduate,,Yes,No,No,No,Yes,Yes,No,No,No
+Dempsey College of L&PA,University Studies (Associates),60,Associate,On-Campus,On-Campus,,,Associate,,,Yes,No,No,No,No,No,No,Yes,No
+Rankin College of Buisiness,Wealth Management,120,"Major, Minor, Undergraduate",On-Campus,On-Campus,,,Major,Minor,Undergraduate,Yes,No,No,Yes,Yes,Yes,No,No,No
